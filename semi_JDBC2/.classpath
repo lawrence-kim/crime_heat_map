@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/REngine.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/Rserve.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/fluent-hc-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/httpclient-cache-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/httpclient-osgi-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/httpclient-win-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/httpcomponents-client-4.5.10/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/opencsv-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/jar_files/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/jar_files/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/스프링 노트/RCaller-2.0.7.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
